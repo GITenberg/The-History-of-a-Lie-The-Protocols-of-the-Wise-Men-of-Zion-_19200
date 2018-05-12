@@ -26,6 +26,8 @@ description: "The Protocols of the Elders of Zion (Russian: Протоколы �
   \ in 1921. It is still widely available today in numerous languages, in print and\
   \ on the Internet, and continues to be presented by some proponents as a genuine\
   \ document.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19200#The-History-of-a-Lie-The-Protocols-of-the-Wise-Men-of-Zion-
 gutenberg_bookshelf: Racism
 gutenberg_issued: '2006-09-08'
 gutenberg_type: Text
