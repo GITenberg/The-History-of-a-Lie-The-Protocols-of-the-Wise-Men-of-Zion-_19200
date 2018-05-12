@@ -1,0 +1,99 @@
+_repo: The-History-of-a-Lie-The-Protocols-of-the-Wise-Men-of-Zion-_19200
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bernstein, Herman
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '1006'
+    url: http://www.gutenberg.org/2009/agents/1006
+description: "The Protocols of the Elders of Zion (Russian: Протоколы сионских мудрецов)\
+  \ or The Protocols of the Meetings of the Learned Elders of Zion is an antisemitic\
+  \ fabricated text purporting to describe a Jewish plan for global domination. The\
+  \ forgery was first published in Russia in 1903, translated into multiple languages,\
+  \ and disseminated internationally in the early part of the 20th century. According\
+  \ to the claims made by some of its publishers, the Protocols are the minutes of\
+  \ a late 19th-century meeting where Jewish leaders discussed their goal of global\
+  \ Jewish hegemony by subverting the morals of Gentiles, and by controlling the press\
+  \ and the world's economies.\nHenry Ford funded printing of 500,000 copies that\
+  \ were distributed throughout the United States in the 1920s. The Nazis sometimes\
+  \ used the Protocols as propaganda against Jews; it was assigned by some German\
+  \ teachers, as if factual, to be read by German schoolchildren after the Nazis came\
+  \ to power in 1933, despite having been exposed as fraudulent by The Times of London\
+  \ in 1921. It is still widely available today in numerous languages, in print and\
+  \ on the Internet, and continues to be presented by some proponents as a genuine\
+  \ document.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Racism
+gutenberg_issued: '2006-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19200'
+  lccn: '21026284'
+  wikidata: Q26193
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Protocols of the wise men of Zion'
+- !lcsh 'Jews'
+- !lcc 'DS'
+title: 'The History of a Lie: "The Protocols of the Wise Men of Zion"'
+url: http://www.gutenberg.org/ebooks/19200
+wikipedia:
+- https://fi.wikipedia.org/wiki/Siionin_viisaiden_p%C3%B6yt%C3%A4kirjat
+- https://eo.wikipedia.org/wiki/Protokoloj_de_cionaj_sa%C4%9Duloj
+- https://fr.wikiquote.org/wiki/Protocoles_des_Sages_de_Sion
+- https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8_%D1%81%D1%96%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D1%85_%D0%BC%D1%83%D0%B4%D1%80%D0%B5%D1%86%D1%96%D0%B2
+- https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%D8%AA%DA%A9%D9%84_%D8%A8%D8%B2%D8%B1%DA%AF%D8%A7%D9%86_%D8%B5%D9%87%DB%8C%D9%88%D9%86
+- https://ru.wikisource.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B9_%D0%A1%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%BC%D1%83%D0%B4%D1%80%D0%B5%D1%86%D0%BE%D0%B2
+- https://en.wikisource.org/wiki/The_Protocols_of_the_Learned_Elders_of_Zion
+- https://hy.wikipedia.org/wiki/%D5%8D%D5%AB%D5%B8%D5%B6%D5%AB_%D5%AB%D5%B4%D5%A1%D5%BD%D5%BF%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80%D5%AB_%D5%A1%D6%80%D5%B1%D5%A1%D5%B6%D5%A1%D5%A3%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80%D5%A8
+- https://ms.wikipedia.org/wiki/Protokol_Para_Tetua_Sion
+- https://el.wikipedia.org/wiki/%CE%A0%CF%81%CF%89%CF%84%CF%8C%CE%BA%CE%BF%CE%BB%CE%BB%CE%B1_%CF%84%CF%89%CE%BD_%CE%A3%CE%BF%CF%86%CF%8E%CE%BD_%CF%84%CE%B7%CF%82_%CE%A3%CE%B9%CF%8E%CE%BD
+- https://az.wikipedia.org/wiki/Sion_m%C3%BCdrikl%C9%99rinin_protokollar%C4%B1
+- https://fr.wikisource.org/wiki/Les_Protocoles_des_Sages_de_Sion
+- https://hi.wikipedia.org/wiki/%E0%A4%A6_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9F%E0%A5%8B%E0%A4%95%E0%A5%89%E0%A4%B2_%E0%A4%91%E0%A4%AB_%E0%A4%A6_%E0%A4%8F%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%B0%E0%A5%8D%E0%A4%B8_%E0%A4%91%E0%A4%AB_%E0%A4%9C%E0%A4%BF%E0%A4%AF%E0%A5%8B%E0%A4%A8
+- https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%AA%E3%83%B3%E8%B3%A2%E8%80%85%E3%81%AE%E8%AD%B0%E5%AE%9A%E6%9B%B8
+- https://nn.wikipedia.org/wiki/Sions_vises_protokollar
+- https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8_%D1%81%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%BC%D1%83%D0%B4%D1%80%D0%B0%D1%86%D0%B0
+- https://es.wikipedia.org/wiki/Los_protocolos_de_los_sabios_de_Sion
+- https://sk.wikipedia.org/wiki/Protokoly_sionsk%C3%BDch_mudrcov
+- https://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion
+- https://ga.wikipedia.org/wiki/Pr%C3%B3tacail_Shean%C3%B3ir%C3%AD_Shi%C3%B3n
+- https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D1%81%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%BC%D1%83%D0%B4%D1%80%D0%B5%D1%86%D0%BE%D0%B2
+- https://pl.wikiquote.org/wiki/Protoko%C5%82y_m%C4%99drc%C3%B3w_Syjonu
+- https://ko.wikipedia.org/wiki/%EC%8B%9C%EC%98%A8_%EC%9E%A5%EB%A1%9C_%EC%9D%98%EC%A0%95%EC%84%9C
+- https://pt.wikipedia.org/wiki/Os_Protocolos_dos_S%C3%A1bios_de_Si%C3%A3o
+- https://et.wikipedia.org/wiki/Siioni_tarkade_protokollid
+- https://fr.wikipedia.org/wiki/Les_Protocoles_des_Sages_de_Sion
+- https://sh.wikipedia.org/wiki/Protokoli_sionskih_mudraca
+- https://ro.wikipedia.org/wiki/Protocoalele_%C3%AEn%C8%9Belep%C8%9Bilor_Sionului
+- https://he.wikisource.org/wiki/%D7%94%D7%A4%D7%A8%D7%95%D7%98%D7%95%D7%A7%D7%95%D7%9C%D7%99%D7%9D_%D7%A9%D7%9C_%D7%96%D7%A7%D7%A0%D7%99_%D7%A6%D7%99%D7%95%D7%9F
+- https://bs.wikipedia.org/wiki/Protokoli_sionskih_mudraca
+- https://pl.wikipedia.org/wiki/Protoko%C5%82y_m%C4%99drc%C3%B3w_Syjonu
+- https://da.wikipedia.org/wiki/Zions_Vises_Protokoller
+- https://sv.wikipedia.org/wiki/Sions_vises_protokoll
+- https://zh.wikipedia.org/wiki/%E9%94%A1%E5%AE%89%E9%95%BF%E8%80%81%E4%BC%9A%E7%BA%AA%E8%A6%81
+- https://hu.wikipedia.org/wiki/Cion_b%C3%B6lcseinek_jegyz%C5%91k%C3%B6nyvei
+- https://id.wikipedia.org/wiki/Protokol_Para_Tetua_Sion
+- https://yi.wikipedia.org/wiki/%D7%A4%D7%A8%D7%90%D7%98%D7%90%D7%A7%D7%90%D7%9C%D7%9F_%D7%A4%D7%95%D7%9F_%D7%96%D7%A7%D7%A0%D7%99-%D7%A6%D7%99%D7%95%D7%9F
+- https://ar.wikisource.org/wiki/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA_%D8%AD%D9%83%D9%85%D8%A7%D8%A1_%D8%B5%D9%87%D9%8A%D9%88%D9%86
+- https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84%D8%A7%D8%AA_%D8%AD%D9%83%D9%85%D8%A7%D8%A1_%D8%B5%D9%87%D9%8A%D9%88%D9%86
+- https://nl.wikipedia.org/wiki/Protocollen_van_de_wijzen_van_Sion
+- https://cv.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BE%D0%BD_%C4%83%D1%81%D1%87%D0%B0%D1%85%C4%95%D1%81%D0%B5%D0%BD_%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%C4%95%D1%81%D0%B5%D0%BC
+- https://sl.wikipedia.org/wiki/Protokoli_sionskih_modrecev
+- https://cs.wikipedia.org/wiki/Protokoly_sionsk%C3%BDch_mudrc%C5%AF
+- https://de.wikipedia.org/wiki/Protokolle_der_Weisen_von_Zion
+- https://lt.wikipedia.org/wiki/Siono_i%C5%A1min%C4%8Di%C5%B3_protokolai
+- https://lv.wikipedia.org/wiki/Cionas_gudro_protokoli
+- https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B5%86%E0%B4%B9%E0%B4%BF%E0%B4%AF%E0%B5%8B%E0%B5%BB_%E0%B4%AE%E0%B5%82%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%A8%E0%B5%8D%E0%B4%AE%E0%B4%BE%E0%B4%B0%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%9A%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE
+- https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D0%B8_%D0%BD%D0%B0_%D0%A6%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D1%82%D0%B5_%D0%BC%D1%8A%D0%B4%D1%80%D0%B5%D1%86%D0%B8
+- https://it.wikipedia.org/wiki/Protocolli_dei_Savi_di_Sion
+- https://no.wikipedia.org/wiki/Sions_vises_protokoller
+- https://hr.wikipedia.org/wiki/Protokoli_Sionskih_mudraca
+- https://ca.wikipedia.org/wiki/Els_protocols_dels_savis_de_Si%C3%B3
+- https://he.wikipedia.org/wiki/%D7%94%D7%A4%D7%A8%D7%95%D7%98%D7%95%D7%A7%D7%95%D7%9C%D7%99%D7%9D_%D7%A9%D7%9C_%D7%96%D7%A7%D7%A0%D7%99_%D7%A6%D7%99%D7%95%D7%9F
